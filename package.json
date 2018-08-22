@@ -1,0 +1,19 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "Personal web development trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forthib/webdev.git"
+  },
+  "author": "Thibaud Fortuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forthib/webdev/issues"
+  },
+  "homepage": "https://github.com/forthib/webdev#readme"
+}
